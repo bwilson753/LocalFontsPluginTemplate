@@ -1,0 +1,19 @@
+@font-face {
+	font-family: Abel-Regular;
+	src: url(Abel/Abel-Regular.ttf);
+}
+
+@font-face {
+	font-family: RobotoCondensed-Bold;
+	src: url(Roboto_Condensed/RobotoCondensed-Bold.ttf);
+}
+
+@font-face {
+	font-family: RobotoCondensed-Regular;
+	src: url(Roboto_Condensed/RobotoCondensed-Regular.ttf);
+}
+
+@font-face {
+	font-family: SpecialElite-Regular;
+	src: url(Special_Elite/SpecialElite-Regular.ttf);
+}
